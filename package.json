@@ -1,0 +1,14 @@
+{
+  "name": "spewerbot",
+  "version": "0.0.1",
+  "description": "read through a text file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Parsons",
+  "license": "MIT",
+  "dependencies": {
+    "matrix-bot-sdk": "^0.3.9"
+  }
+}
